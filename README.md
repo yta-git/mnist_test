@@ -1,2 +1,6 @@
 # mnist_test
-mnistの説明に使ったやつ
+参考 ： Paint on a Panel　By Geoff Samuel www.GeoffSamuel.com
+
+![](8.png)
+
+ちょっと楽しい
